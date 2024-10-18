@@ -31,3 +31,5 @@ public:
 
 /* Time C:- O(logbase2N)
  S.C :- O(1)*/
+ /* best mid way to take and caution for overflow condition
+ mid =  low+(high-low)/2 */
