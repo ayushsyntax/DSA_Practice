@@ -56,6 +56,7 @@ void removeHead() {
 }
 
 
+
 // Main function to demonstrate linked list creation and traversal
 int main() {
     int A[] = {10, 20, 30, 40, 50}; // Example array to create linked list

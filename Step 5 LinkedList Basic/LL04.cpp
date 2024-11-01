@@ -84,7 +84,6 @@ int main() {
     head = deleteK(head, k); // Delete the k-th node
     cout << "Linked List after deleting " << k << "-th node: "; // Output message after deletion
     traverse(); // Traverse and display the modified linked list
-
     // Clean up remaining nodes
     while (head != nullptr) {
         Node* temp = head;

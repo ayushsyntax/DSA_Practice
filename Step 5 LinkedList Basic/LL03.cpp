@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+
 // Node structure definition
 struct Node {
     int data;           // Data part of the node
